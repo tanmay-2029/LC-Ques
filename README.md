@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/LC-Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
 | ------- |
