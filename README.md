@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
