@@ -28,6 +28,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/tanmay-2029/LC-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0237-delete-node-in-a-linked-list) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
+| [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmay-2029/LC-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -62,9 +64,11 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/tanmay-2029/LC-Ques/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
