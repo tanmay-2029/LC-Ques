@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -22,6 +23,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |
