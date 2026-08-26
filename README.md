@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/tanmay-2029/LC-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/tanmay-2029/LC-Ques/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
