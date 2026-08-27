@@ -14,6 +14,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3270-find-the-key-of-the-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/3270-find-the-key-of-the-numbers) |
 ## String
 |  |
 | ------- |
