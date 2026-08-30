@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
+| [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/3270-find-the-key-of-the-numbers) |
 ## String
@@ -72,4 +74,20 @@
 | ------- |
 | [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/tanmay-2029/LC-Ques/tree/master/0203-remove-linked-list-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
