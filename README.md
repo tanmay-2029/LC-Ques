@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
