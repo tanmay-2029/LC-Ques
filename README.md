@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmay-2029/LC-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
