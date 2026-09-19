@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmay-2029/LC-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -16,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanmay-2029/LC-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
@@ -99,5 +103,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
