@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmay-2029/LC-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -50,6 +51,7 @@
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmay-2029/LC-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -104,9 +106,19 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
