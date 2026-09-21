@@ -10,6 +10,7 @@
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmay-2029/LC-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/LC-Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
