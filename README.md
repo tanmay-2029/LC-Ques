@@ -23,6 +23,7 @@
 | [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/tanmay-2029/LC-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/3270-find-the-key-of-the-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3875-construct-uniform-parity-array-i) |
@@ -110,6 +111,7 @@
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/tanmay-2029/LC-Ques/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
