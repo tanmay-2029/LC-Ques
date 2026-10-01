@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/LC-Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
@@ -84,6 +85,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/tanmay-2029/LC-Ques/tree/master/0445-add-two-numbers-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
