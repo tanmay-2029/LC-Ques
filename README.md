@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanmay-2029/LC-Ques/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanmay-2029/LC-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
@@ -113,6 +116,7 @@
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmay-2029/LC-Ques/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmay-2029/LC-Ques/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
