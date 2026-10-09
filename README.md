@@ -26,6 +26,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/tanmay-2029/LC-Ques/tree/master/1486-xor-operation-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/3270-find-the-key-of-the-numbers) |
+| [3280-convert-date-to-binary](https://github.com/tanmay-2029/LC-Ques/tree/master/3280-convert-date-to-binary) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -35,6 +36,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/LC-Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3280-convert-date-to-binary](https://github.com/tanmay-2029/LC-Ques/tree/master/3280-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
