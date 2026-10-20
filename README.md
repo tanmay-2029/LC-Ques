@@ -28,6 +28,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanmay-2029/LC-Ques/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/tanmay-2029/LC-Ques/tree/master/3280-convert-date-to-binary) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/LC-Ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanmay-2029/LC-Ques/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -144,4 +145,5 @@
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/LC-Ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
