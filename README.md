@@ -35,6 +35,7 @@
 | [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tanmay-2029/LC-Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2678-number-of-senior-citizens](https://github.com/tanmay-2029/LC-Ques/tree/master/2678-number-of-senior-citizens) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
