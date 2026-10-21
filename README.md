@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/tanmay-2029/LC-Ques/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/tanmay-2029/LC-Ques/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
