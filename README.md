@@ -37,6 +37,7 @@
 | [0125-valid-palindrome](https://github.com/tanmay-2029/LC-Ques/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-2029/LC-Ques/tree/master/0657-robot-return-to-origin) |
+| [0831-masking-personal-information](https://github.com/tanmay-2029/LC-Ques/tree/master/0831-masking-personal-information) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay-2029/LC-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanmay-2029/LC-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
