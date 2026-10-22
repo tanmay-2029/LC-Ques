@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
@@ -72,10 +73,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tanmay-2029/LC-Ques/tree/master/0645-set-mismatch) |
@@ -90,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmay-2029/LC-Ques/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tanmay-2029/LC-Ques/tree/master/0645-set-mismatch) |
@@ -153,4 +157,12 @@
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmay-2029/LC-Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tanmay-2029/LC-Ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
