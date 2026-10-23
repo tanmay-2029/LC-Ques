@@ -55,6 +55,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/tanmay-2029/LC-Ques/tree/master/0203-remove-linked-list-elements) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/tanmay-2029/LC-Ques/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/tanmay-2029/LC-Ques/tree/master/0143-reorder-list) |
