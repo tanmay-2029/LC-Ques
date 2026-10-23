@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/tanmay-2029/LC-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/LC-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/tanmay-2029/LC-Ques/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/tanmay-2029/LC-Ques/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/tanmay-2029/LC-Ques/tree/master/0877-stone-game) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-2029/LC-Ques/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanmay-2029/LC-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
